@@ -1,0 +1,50 @@
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="vasya pupkin.com" resolutions="1x" timestamp="1670140403007">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="4168663025" ref="index"/>
+    <file name="partners.css" crc="476364430" ref="partners"/>
+    <file name="news.css" crc="61008663" ref="news"/>
+    <file name="programs.css" crc="3953436915" ref="programs"/>
+    <file name="portal.css" crc="147789046" ref="portal"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:partners:news:portal:programs"/>
+    <file name="museutils.js" crc="4216313831" ref="index:partners:news:portal:programs"/>
+    <file name="whatinput.js" crc="86476730" ref="index:partners:news:portal:programs"/>
+    <file name="museconfig.js" crc="474374037" ref="index:partners:news:portal:programs"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:partners:news:portal:programs"/>
+    <file name="require.js" crc="3951022091" ref="index:partners:news:portal:programs"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index:portal:partners:news:programs"/>
+  </folder>
+  <folder name="images">
+    <file name="u115-4.png" crc="3894376687" ref="index"/>
+    <file name="u155-4.png" crc="115059325" ref="index"/>
+    <file name="u166-4.png" crc="4097228070" ref="index"/>
+    <file name="ecc8608ebb9732b0a74cc79493f1a31f.jpg" crc="3760537216" ref="index:portal:partners:news:programs">
+      <caption webpage="index" alt=""/>
+      <caption webpage="portal" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="partners" alt=""/>
+      <caption webpage="programs" alt=""/>
+    </file>
+    <file name="u205-4.png" crc="3894376687" ref="portal"/>
+    <file name="u213-4.png" crc="4036585661" ref="portal"/>
+    <file name="u219-4.png" crc="3880705705" ref="portal"/>
+    <file name="u222-4.png" crc="467611617" ref="portal"/>
+    <file name="u357-4.png" crc="516327767" ref="partners"/>
+    <file name="u373-4.png" crc="368872170" ref="partners"/>
+    <file name="u387-4.png" crc="3921916005" ref="partners"/>
+    <file name="u398-4.png" crc="135837317" ref="partners"/>
+    <file name="u365-4.png" crc="50661831" ref="partners"/>
+    <file name="u379-4.png" crc="351460179" ref="partners"/>
+    <file name="u305-4.png" crc="3894376687" ref="news"/>
+    <file name="u304-6.png" crc="4049282836" ref="news"/>
+    <file name="u353-4.png" crc="309424595" ref="programs"/>
+    <file name="u351-4.png" crc="153765148" ref="programs"/>
+  </folder>
+  <file name="index.html" crc="4283892555" seo="true" mt="1669920112826" redirect="true"/>
+  <file name="partners.html" crc="188005838" seo="true" mt="1670140155526" redirect="true"/>
+  <file name="news.html" crc="4166339046" seo="true" mt="1670140293727" redirect="true"/>
+  <file name="portal.html" crc="4186679434" seo="true" mt="1670059379021" redirect="true"/>
+  <file name="programs.html" crc="3927334210" seo="true" mt="1670140371462" redirect="true"/>
+</manifest>
